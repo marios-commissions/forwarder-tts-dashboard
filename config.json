@@ -1,0 +1,4 @@
+{
+	"discordWebSocket": "ws://localhost:4444",
+	"telegramWebSocket": "ws://localhost:4445"
+}
